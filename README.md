@@ -80,5 +80,5 @@ Meine Motivation für dieses Modul ist es, ein besseres Verständnis für die De
 |--------------------------------|-----------------------------|
 | Review durch (ZHAW-Kürzel)     |         gyamoten            |
 | Review von (ZHAW-Kürzel)       |         bockmic1            |
-| Sprache, Kommunikation, roter Faden | TODO                        |
-| Nachvollziehbarkeit Inhalt, Demonstration | TODO                |
+| Sprache, Kommunikation, roter Faden | TODO         Ich fand das Video gut gemacht. Man konnte gut folgen, die Sprache war klar und verständlich. Es wurde Schritt für Schritt von einem Modul zum nächsten gearbeitet, wodurch ein guter roter Faden erkennbar war. Auch die Reihenfolge der Inhalte war logisch aufgebaut. Besonders positiv war, dass wichtige Punkte nochmal kurz zusammengefasst wurden.               |
+| Nachvollziehbarkeit Inhalt, Demonstration | Die Inhalte waren gut nachvollziehbar und verständlich erklärt. Besonders hilfreich war, dass die einzelnen Schritte immer direkt am Bildschirm gezeigt wurden. Die Demonstration war übersichtlich, und man konnte gut erkennen, was gerade gemacht wurde. Auch kleine Details wurden erklärt, was das Ganze nochmal klarer gemacht hat. Insgesamt wirkte alles gut vorbereitet und durchdacht.                |
