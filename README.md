@@ -78,7 +78,7 @@ Meine Motivation für dieses Modul ist es, ein besseres Verständnis für die De
 
 |                                | **Bitte ausfüllen**         |
 |--------------------------------|-----------------------------|
-| Review durch (ZHAW-Kürzel)     |                             |
-| Review von (ZHAW-Kürzel)       |                             |
+| Review durch (ZHAW-Kürzel)     |         gyamoten            |
+| Review von (ZHAW-Kürzel)       |         bockmic1            |
 | Sprache, Kommunikation, roter Faden | TODO                        |
 | Nachvollziehbarkeit Inhalt, Demonstration | TODO                |
