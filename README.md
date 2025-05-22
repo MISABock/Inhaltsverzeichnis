@@ -72,3 +72,13 @@ Meine Motivation für dieses Modul ist es, ein besseres Verständnis für die De
 - **Prozessor:** 13th Gen Intel® Core™ i9-13900H, 2.6 GHz, 14 Kerne, 20 logische Prozessoren
 - **Arbeitsspeicher:** 32 GB RAM
 - **Grafikkarte:** NVIDIA GeForce RTX 4050 Laptop GPU, 6 GB VRAM
+
+
+## Peer-Feedback
+
+|                                | **Bitte ausfüllen**         |
+|--------------------------------|-----------------------------|
+| Review durch (ZHAW-Kürzel)     |                             |
+| Review von (ZHAW-Kürzel)       |                             |
+| Sprache, Kommunikation, roter Faden | TODO                        |
+| Nachvollziehbarkeit Inhalt, Demonstration | TODO                |
